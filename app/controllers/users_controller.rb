@@ -28,7 +28,7 @@ class UsersController < ApplicationController
             token = nil
             render json: { message: "User logout"}, status: :ok
         else
-            render json: { errro: "Invalid username or password!"}, status:
+            render json: { errro: "Invalid username or password!"}, status: :unprocessable_entity
         end
     end
 

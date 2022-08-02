@@ -6,7 +6,7 @@ class PhotosController < ApplicationController
   def index
     @photos = Photo.all
 
-    render json: @photos
+    render json: @photos 
   end
 
   # GET /photos/1
@@ -28,7 +28,7 @@ class PhotosController < ApplicationController
   # PATCH/PUT /photos/1
   def update
     if @photo.update(photo_params)
-      render json: @photo
+      render json: {message: "Photo updated successfully"}
     else
       render json: @photo.errors, status: :unprocessable_entity
     end
@@ -37,6 +37,9 @@ class PhotosController < ApplicationController
   # DELETE /photos/1
   def destroy
     @photo.destroy
+    if @photo.destroy
+      render json: {message: "Photo deleted successfully"}
+    end
   end
 
   private
