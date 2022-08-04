@@ -6,7 +6,7 @@ class PhotosController < ApplicationController
   def index
     @photos = Photo.all
 
-    render json: @photos 
+    render json: @photos[0..19]
   end
 
   # GET /photos/1
