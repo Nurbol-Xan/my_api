@@ -1,25 +1,65 @@
-# README
+# Welcome to My Api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Give it a try: [My API](https://5c2ae6e87dd14389b6fa520b458d70c4.vfs.cloud9.us-east-1.amazonaws.com/)
 
-Things you may want to cover:
 
-* Ruby version
+## **Contents**:
 
-* System dependencies
+- [Task](#task)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
 
-* Configuration
 
-* Database creation
+## Task
+There are many benefits of working for Amazon Web Services. I am learning from him the areas I need.
 
-* Database initialization
+## Description
+I am currently using cloud9 and learning ES2. This project is running on aws cloud9 server.
 
-* How to run the test suite
+## Installation
 
-* Services (job queues, cache servers, search engines, etc.)
+Visit my website via postman link and give it a try. [Postman link](https://app.getpostman.com/join-team?invite_code=a860f9342f78d3ab418e1eadf5919960&target_code=aed92a53809e34b7f87fb2c2eae5e92b)
 
-* Deployment instructions
 
-* ...
-# My_API
+## Usage
+User authentication
+
+>Sign up user
+![This is a gif](/readme_gif/signup.gif)
+# 
+
+>Login user
+![This is a gif](/readme_gif/login.gif)
+# 
+
+>Sign out user
+![This is a gif](/readme_gif/logout_us.gif)
+# 
+
+## CRUD system Photos
+> Create Photo
+![This is a gif](/readme_gif/create_ph.gif)
+# 
+
+> All Photos
+![This is a gif](/readme_gif/index.gif)
+# 
+
+
+> A Photo
+![This is a gif](/readme_gif/show.gif)
+# 
+
+
+> Update Photo
+![This is a gif](/readme_gif/update_ph.gif)
+# 
+
+> Delete Photo
+![This is a gif](/readme_gif/delete.gif)
+# 
+
+
+
+>In this project I learned how to work on the backend side and learned about aws.
