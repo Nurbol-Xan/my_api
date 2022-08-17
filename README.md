@@ -23,7 +23,6 @@ Visit my website via postman link and give it a try. [Postman link](https://app.
 
 
 ## Usage
-
 User authentication
 
 >Sign up user
