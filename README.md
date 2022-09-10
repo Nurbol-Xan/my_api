@@ -19,7 +19,7 @@ I am currently using cloud9 and learning ES2. This project is running on aws clo
 
 ## Installation
 
-Visit my website via postman link and give it a try. [Postman link](https://app.getpostman.com/join-team?invite_code=a860f9342f78d3ab418e1eadf5919960&target_code=aed92a53809e34b7f87fb2c2eae5e92b)
+Visit my website via postman link and give it a try. [Postman link](https://app.getpostman.com/join-team?invite_code=b3d27289df249763757e4266334ac0b0&target_code=d708b4446494e7459c7176699fc4a9ac)
 
 
 ## Usage
